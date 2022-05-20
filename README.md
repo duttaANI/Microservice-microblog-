@@ -2,11 +2,11 @@
 
 
 <p align="left">   
-  <img src="./images/initial.png" width=50% height=50% />
+  <img src="./images/initial.png" width=80% height=80% />
 </p>
 
 <p align="left">
-  <img src="./images/Query_Service.png" width=50% height=50% />
+  <img src="./images/Query_Service.png" width=80% height=80% />
 </p>
 
 <p align="left">
