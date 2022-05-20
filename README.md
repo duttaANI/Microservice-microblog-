@@ -1,6 +1,7 @@
 # Microservice-microblogging APP
 
 Run following commands in respective terminal for each service
+
 $ npm start
 
 
