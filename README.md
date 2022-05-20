@@ -1,5 +1,9 @@
 # Microservice-microblogging APP
 
+Run following commands in respective terminal for each service
+$ npm start
+
+
 
 <p align="left">   
   <img src="./images/initial.png" width=70% height=70% />
