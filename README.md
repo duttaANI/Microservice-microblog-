@@ -18,6 +18,8 @@ $ kubectl get pods -o wide
 
 $ kubectl exec posts -- it sh
 
+$ kubectl delete pod posts
+
 
 <p align="left">   
   <img src="./images/initial.png" width=70% height=70% />
