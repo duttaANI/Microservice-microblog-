@@ -4,6 +4,10 @@ Run following commands in respective terminal for each service
 
 $ npm start
 
+$ docker build -t duttaani/event-bus .
+
+$ docker run duttaani/event-bus  
+
 
 
 <p align="left">   
