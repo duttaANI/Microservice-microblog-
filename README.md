@@ -22,6 +22,8 @@ $ kubectl delete pod posts
 
 $ kubectl describe pod posts
 
+$ kubectl get deployments
+
 
 <p align="left">   
   <img src="./images/initial.png" width=70% height=70% />
