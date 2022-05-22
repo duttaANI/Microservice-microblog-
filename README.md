@@ -54,3 +54,29 @@ $ kubectl describe service posts-srv
 <p align="left">
   <img src="images/Event_Bus_broadcast.png" width=70% height=70% />
 </p>
+
+<p align="left">
+  <img src="images/docker_1.png" width=70% height=70% />
+</p>
+
+<p align="left">
+  <img src="images/dock_2.png" width=70% height=70% />
+</p>
+
+<p align="left">
+  <img src="images/dock_3.png" width=70% height=70% />
+</p>
+
+<p align="left">
+  <img src="images/dock_4.png" width=70% height=70% />
+</p>
+
+<p align="left">
+  <img src="images/dock_to_k8.png" width=70% height=70% />
+</p>
+
+<p align="left">
+  <img src="images/docker_cmds.png" width=70% height=70% />
+</p>
+
+
