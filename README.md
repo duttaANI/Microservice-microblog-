@@ -32,6 +32,8 @@ $ kubectl logs posts-depl-6c745ddd69-t9xvg
 
 $ kubectl get services
 
+$ kubectl describe service posts-srv
+
 
 <p align="left">   
   <img src="./images/initial.png" width=70% height=70% />
