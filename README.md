@@ -8,6 +8,13 @@ $ docker build -t duttaani/event-bus .
 
 $ docker run duttaani/event-bus  
 
+$ minikube start
+
+$ kubectl version
+
+$ kubectl apply -f posts.yaml 
+
+$ kubectl get pods -o wide
 
 
 <p align="left">   
