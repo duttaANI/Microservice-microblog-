@@ -26,6 +26,8 @@ $ kubectl get deployments
 
 $ docker push duttaani/posts
 
+$ kubectl rollout restart deployment posts-depl
+
 
 <p align="left">   
   <img src="./images/initial.png" width=70% height=70% />
