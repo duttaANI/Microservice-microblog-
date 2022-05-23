@@ -44,6 +44,8 @@ $ code /etc/hosts
 
 $ minikube ip
 
+$ scaffold dev
+
 
 
 <p align="left">   
