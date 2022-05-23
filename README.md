@@ -42,6 +42,8 @@ $ sudo lsof -i tcp:80
 
 $ code /etc/hosts
 
+$ minikube ip
+
 
 
 <p align="left">   
