@@ -40,6 +40,8 @@ $ minikube addons enable ingress
 
 $ sudo lsof -i tcp:80
 
+$ code /etc/hosts
+
 
 
 <p align="left">   
