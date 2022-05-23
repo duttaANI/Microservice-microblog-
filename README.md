@@ -38,6 +38,9 @@ $ kubectl apply -f .
 
 $ minikube addons enable ingress
 
+$ sudo lsof -i tcp:80
+
+
 
 <p align="left">   
   <img src="./images/initial.png" width=70% height=70% />
