@@ -4,7 +4,16 @@ ubuntu -
 /etc/hosts
 
 insert following line-
+
 192.168.58.2 posts.com
+
+##### the above ip is recieved by following command-
+
+❯ code /etc/hosts
+
+❯ minikube ip
+
+192.168.58.2
 
 [https://kubernetes.github.io/ingress-nginx/deploy/#minikube](https://kubernetes.github.io/ingress-nginx/deploy/#minikube)
 
