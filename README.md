@@ -1,5 +1,11 @@
 # Microservice-microblogging APP
 
+ubuntu -
+/etc/hosts
+
+insert following line-
+192.168.58.2 posts.com
+
 [https://kubernetes.github.io/ingress-nginx/deploy/#minikube](https://kubernetes.github.io/ingress-nginx/deploy/#minikube)
 
 Run following commands in respective terminal for each service
