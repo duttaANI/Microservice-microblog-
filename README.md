@@ -109,4 +109,29 @@ $ scaffold dev
   <img src="images/docker_cmds.png" width=70% height=70% />
 </p>
 
+<p align="left">
+  <img src="images/config_routing_rules.png" width=70% height=70% />
+</p>
+
+<p align="left">
+  <img src="images/ingress1.png" width=70% height=70% />
+</p>
+
+<p align="left">
+  <img src="images/ingress_controller.png" width=70% height=70% />
+</p>
+
+<p align="left">
+  <img src="images/load_bal.png" width=70% height=70% />
+</p>
+
+<p align="left">
+  <img src="images/load2.png" width=70% height=70% />
+</p>
+
+<p align="left">
+  <img src="images/pods_view.png" width=70% height=70% />
+</p>
+
+
 
