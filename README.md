@@ -27,6 +27,8 @@ $ docker run duttaani/event-bus
 
 $ minikube start
 
+$ minikube addons enable ingress
+
 $ kubectl version
 
 $ kubectl apply -f posts.yaml 
